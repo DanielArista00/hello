@@ -2,4 +2,4 @@
 print("hola")
  
  
-print("aram es puto") 
+print("Hola soy una prueba")
